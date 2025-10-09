@@ -5,11 +5,11 @@
   /* colors */
   --oui-color-primary: 227 33 25;
   --oui-color-primary-light: 240 88 90;
-  --oui-color-primary-darken: 208 18 10;
+  --oui-color-primary-darken: 227 34 25;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 227 33 25;
-  --oui-color-link-light: 240 88 90;
+  --oui-color-link: 17 86 216;
+  --oui-color-link-light: 17 86 216;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
